@@ -13,4 +13,4 @@ Much better Line of Sight Algorithm
 
 Have fun :)
 
-![Game gif]("Attack of the Darkstorm Galaxy.gif")
+![Attack of the Darkstorm Galaxy](https://user-images.githubusercontent.com/88546942/129581055-49edfec8-2148-4eee-8616-022143dc7a9e.gif)
