@@ -13,3 +13,5 @@ Much better Line of Sight Algorithm
 
 Have fun :)
 
+![](https://i.imgur.com/Ssfp7.gif)
+
